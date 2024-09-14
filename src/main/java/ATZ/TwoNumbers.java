@@ -2,7 +2,7 @@ package ATZ;
 import java.util.Scanner;
 
 public class TwoNumbers {
-    public static void main(String[] args) {
+    public static void numberScanner(){
         Scanner sc = new Scanner(System.in);
         System.out.println("ведите число");
         int a = sc.nextInt();
